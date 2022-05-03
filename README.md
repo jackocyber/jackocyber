@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jackocyber
 - 👀 I’m interested in startups
-- 🌱 I’m currently learning aobut startups
+- 🌱 I’m currently learning about startups
 - 💞️ I’m looking to collaborate on startups
 - 📫 How to reach me jackogle@uchicago.edu
 
