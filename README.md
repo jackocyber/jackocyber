@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jackocyber
 - 👀 I’m interested in startups
 - 🌱 I’m currently learning about startups
-- 💞️ I’m looking to collaborate on startups
-- 📫 How to reach me jackogle@uchicago.edu
+- 📫 Reach me @ jack@racct.com
 
 <!---
 jackocyber/jackocyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
