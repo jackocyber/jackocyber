@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jackocyber
-- 👀 I’m interested in startups
-- 🌱 I’m currently learning about startups
-- 📫 Reach me @ jack@racct.com
+- 🦝 Building racct.com with @jrmerril
+- 📫 Reach me @ jack@racct.com or 6126707721
 
 <!---
 jackocyber/jackocyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
