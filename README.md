@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jackocyber
-- 🦝 Building racct.com with @jrmerril
+- 🦝 Building racct with @jrmerril
 - 📫 Reach me @ jack@racct.com or 6126707721
 
 <!---
