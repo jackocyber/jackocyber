@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jackocyber
-- 🦝 Building racct with @jrmerril
+- 🦝 Building <a href='https://racct.com'>racct</a> with @jrmerril
 - 📫 Reach me @ jack@racct.com or 6126707721
 
 <!---
